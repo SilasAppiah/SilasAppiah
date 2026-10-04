@@ -172,4 +172,8 @@ This section supersedes sections 4 to 8 where they conflict.
 
 **Rejected in this session:** retargeting (reads as routine ad work), Question-Led Reels (overlaps with Classroom to Content), alumni referral (already exists).
 
-**Next:** build the 15-minute deck using section 11 specs once Silas confirms the briefs.
+**Also confirmed:** Silas's full name is Silas Atuahene Appiah. The website has Google Analytics, so UTM tracking is part of Innovation 2. Cohort 49 intake closes 29 November and the cohort starts 5 December, so the weekend classes now running belong to the current cohort.
+
+**Overlap to be ready for:** the Cohort 49 plan already lists Two Minutes with a Facilitator, Inside the Class, per-channel tracking links and tagged leads. The deck frames the innovations as the routines that make the plan happen, and Innovation 2 covers the untagged route (our own DMs and comments).
+
+**Deck built:** `Q4_Innovations_Silas_Appiah.pptx` (18 slides, speaker notes include Q&A answers). Rebuild with `node deck/build.js` after `npm install pptxgenjs sharp react react-dom react-icons` in `deck/`. Design follows the Cohort 49 deck (brand colours, General Sans, Geist, Bebas Neue, gradient cards) plus ideas from Silas's two reference images (big watermark numbers on dividers, stepped impact bars, numbered contents).

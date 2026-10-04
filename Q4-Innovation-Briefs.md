@@ -1,7 +1,7 @@
 # Q4 Operational Innovation Briefs
 
 **Silas Appiah, Digital Marketing Officer, HR Certification Centre**
-Draft for the Q4 Operational Innovation & Performance Presentation (5 October 2026)
+Draft for the Q4 Operational Innovation & Performance Presentation (5 October 2026). Slides: `Q4_Innovations_Silas_Appiah.pptx`
 
 Figures in [square brackets] are placeholders. Replace them with real baseline numbers before they go on a slide.
 
@@ -11,7 +11,9 @@ Figures in [square brackets] are placeholders. Replace them with real baseline n
 
 **Capture the teaching, share it as value, and track who it brings in.**
 
-Every weekend, three modules of expert teaching happen at HRCC and almost none of it reaches our audience. Innovation 1 turns that teaching into a steady flow of value content. Innovation 2 makes sure everyone that content attracts gets an instant answer and reaches sales with a tag we can count.
+Every weekend, three modules of expert teaching happen at HRCC and almost none of it reaches our audience.
+
+**How this relates to the Cohort 49 plan.** The plan already names facilitator content (Two Minutes with a Facilitator, Inside the Class) and tagged leads. These innovations are not new campaigns. They are the weekly routines that make those things happen without extra people, and they cover the one route the plan does not tag: our own social DMs and comments. Innovation 1 turns that teaching into a steady flow of value content. Innovation 2 makes sure everyone that content attracts gets an instant answer and reaches sales with a tag we can count.
 
 ```
 Facilitator interview  ->  Week of value posts  ->  Keyword comment / DM
@@ -63,7 +65,7 @@ A 3-minute interview with the facilitator after every module, turned into a week
 ### 6. Timeline
 - **October:** agree the format with facilitators, get consent, buy tripod and mic, build the CapCut and Figma templates. Record baselines (Wednesday shoot length, share of posts from the creative team, engagement on recent promotional posts). Pilot on two weekends and adjust the questions.
 - **November:** full run every weekend, three interviews a week, four or more posts each. Track KPIs weekly.
-- **December:** review which formats perform best. Compile the best clips into a "Cohort 49 highlights" set for Cohort 50 recruitment. Write a one-page playbook so anyone can run the routine.
+- **December:** review which formats perform best. Compile the best clips into a highlights set for the next intake. Write a one-page playbook so anyone can run the routine.
 
 ### 7. KPIs
 | KPI | Baseline | Q4 target |
@@ -77,16 +79,16 @@ A 3-minute interview with the facilitator after every module, turned into a week
 | Posts scheduled 7+ days ahead | [X]% | 80% or more |
 
 ### 8. Expected Q4 impact
-- About [10] teaching weekends left in Q4 x 3 modules = about [30] interviews and about [120] posts, with little creative team time. (Confirm against the Cohort 49 module calendar.)
+- 8 teaching weekends between 10 October and the 29 November intake close x 3 modules = 24 interviews and 96 or more posts, with little creative team time. (Confirm against the class calendar.)
 - The feed shifts towards value content from real experts, which makes it feel less salesy.
 - A shorter Wednesday shoot gives back about [X] hours a month to me and the team.
-- A ready library of real classroom moments to recruit Cohort 50.
+- Real classroom moments feeding the Cohort 49 push before intake closes, and the next intake after it.
 
 ### 9. Sustainability
 - Every cohort has modules, so the supply never runs out.
 - The three questions, templates and a one-page playbook mean a backup can run it.
 - Clips are filed by programme and module, so future cohorts can reuse them.
-- The same routine can extend to HRCC Consulting trainings as a separate lane, which also helps keep the two brands apart.
+- Brand lanes: Straight from the Classroom is HRCC's expert voice, and Consulting trainings get their own visually distinct series, so the two brands are recognisable on the shared pages without splitting them.
 
 ---
 
@@ -113,7 +115,8 @@ Every social media enquiry gets an instant, accurate first answer through Meta B
 3. Set up in Meta Business Suite (free): instant reply, FAQs, saved replies, away message, custom keywords (up to 5, for example APHRI, PHRI, SPHRI, FEES, DATES) and comment-to-message on posts.
 4. Create one WhatsApp click-to-chat link per programme with a pre-filled message, for example: "Hi, I'm interested in PHRi (ref: SM-PHRI)". The person taps, WhatsApp opens with the message ready, they press send.
 5. Brief sales on one step: add the label "Social lead" in WhatsApp Business when a message has a ref code. Agree a quick Friday count.
-6. Weekly 10-minute review: any question the FAQ missed becomes a new answer, and good questions become prompts for next weekend's facilitator interviews.
+6. Add UTM tags to every website and portal link (Google Analytics is installed), so all three routes to HRCC are counted.
+7. Weekly 10-minute review: any question the FAQ missed becomes a new answer, and good questions become prompts for next weekend's facilitator interviews.
 
 ### 5. Resources and support required
 - Executive Director's approval of the response standard and of the sales labelling step.
@@ -135,6 +138,7 @@ Every social media enquiry gets an instant, accurate first answer through Meta B
 | Ref-coded handoffs to sales per week | Not tracked | [target] |
 | Social-sourced leads that enrol | Not tracked | Reported monthly |
 | Keyword comment-to-DM triggers per post | 0 | [target] |
+| Website and portal visits by source (UTM) | Partial | Every link tagged |
 
 ### 8. Expected Q4 impact
 - For the first time, HRCC can say how many leads and enrolments social media produced.
