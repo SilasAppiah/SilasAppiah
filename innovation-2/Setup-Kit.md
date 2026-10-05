@@ -155,7 +155,7 @@ Add these under **Inbox > Saved replies** (in the message box, look for the save
 
 | Name | Text |
 |---|---|
-| `handover-aphri` | Great choice! Grace from our admissions team will take it from here. Tap this link and press send, and she'll guide you through the next steps: (paste the FB-APHRI or IG-APHRI link) |
+| `handover-aphri` | Great choice! Grace from our admissions team will take it from here. Tap this link and press send to get started with the next steps: (paste the FB-APHRI or IG-APHRI link) |
 | `handover-phri` | Same as above with the PHRI link |
 | `handover-sphri` | Same as above with the SPHRI link |
 | `handover-general` | Our admissions team can answer that properly. Tap this link and press send: (FB-GEN or IG-GEN link) |
