@@ -1,0 +1,17 @@
+{
+  "start": "2026-10-31",
+  "end": "2026-11-06",
+  "posts": [
+    {"match": "Every professional journey has a defining moment", "desc": "Cohort 49 - Your Next Career Milestone (carousel)", "type": "Carousel", "unit": "Main Certification", "audience": "HR professionals"},
+    {"match": "know your numbers", "desc": "Executive Presence - Know Your Numbers (video)", "type": "Video", "unit": "Other", "audience": "HR professionals"},
+    {"match": "Employee of the Quarter", "desc": "Employee of the Quarter (Jul-Sep) - Theophilus", "type": "Picture", "unit": "Admin", "audience": "General public"},
+    {"match": "bringing together HR leaders", "desc": "HR Summit - The Future of HR in Africa (video)", "type": "Video", "unit": "Other", "audience": "HR professionals"},
+    {"match": "SeamlessTech", "desc": "HR & Technology session with SeamlessTech Ghana (30+ HR leaders)", "type": "Picture", "unit": "Consulting", "audience": "Functional heads / leaders", "notes": "Posted directly on LinkedIn. Check content type and unit"},
+    {"match": "office romance", "desc": "HR Fix - Office Romance: Should HR Be Concerned? (Marlene edition)", "type": "Video", "unit": "Other", "audience": "HR professionals"},
+    {"match": "dynamic duo", "desc": "HR Summit - Meet the MCs (Godwin Namboh & Lilipearl Otoo)", "type": "Flyer", "unit": "Other", "audience": "HR professionals"},
+    {"match": "Charity Akler Assem", "desc": "Congratulations - Charity Akler Assem, SPHRi", "type": "Picture", "unit": "Main Certification", "audience": "HR professionals", "notes": "Posted directly on LinkedIn"},
+    {"match": "A plaque represents more than an award", "desc": "HR Summit - 14 Days to Go (plaque)", "type": "Countdown post", "unit": "Other", "audience": "HR professionals"},
+    {"match": "Kojo Addae-Mensah", "desc": "HR Summit - Keynote: Kojo Addae-Mensah (Databank) video", "type": "Video", "unit": "Other", "audience": "HR professionals"}
+  ],
+  "manual": []
+}
