@@ -113,8 +113,11 @@ def main():
     if unmatched:
         raise SystemExit("No classification for:\n  " + "\n  ".join(unmatched))
 
-    for x in week.get("manual", []):
-        rows.append(dict(date=dt.date.fromisoformat(x["date"]), time=None,
+    for i, x in enumerate(week.get("manual", [])):
+        d = dt.date.fromisoformat(x["date"])
+        # After the day's posts, in the order Silas listed them
+        t = dt.datetime.combine(d, dt.time(23, 0), ACCRA) + dt.timedelta(seconds=i)
+        rows.append(dict(date=d, time=t,
                          desc=x["desc"], channel=x.get("channel", "Other"),
                          type=x.get("type", "Other"), unit=x.get("unit", "Other"),
                          org=x.get("org"), audience=x.get("audience"),
@@ -126,7 +129,7 @@ def main():
     first_time = {}
     for r in rows:
         k = (r["date"], r["desc"])
-        t = r["time"] or dt.datetime.combine(r["date"], dt.time(23, 59), ACCRA)
+        t = r["time"]
         first_time[k] = min(first_time.get(k, t), t)
     rows.sort(key=lambda r: (r["date"], first_time[(r["date"], r["desc"])],
                              r["desc"], CH_ORDER.get(r["channel"], 9)))
